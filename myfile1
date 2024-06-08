@@ -1,3 +1,4 @@
 class hello{
   System.out.println("Hello welcome to the world of programming");
+ System.out.println("this is the basic hello world program from java");
 }
